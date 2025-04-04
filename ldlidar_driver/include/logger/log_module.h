@@ -33,6 +33,7 @@
 #include <string>
 #include <chrono>
 #include <stdlib.h>
+#include <pthread.h>
 
 #ifndef LINUX
 #include <windows.h>
